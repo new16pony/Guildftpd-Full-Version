@@ -240,4 +240,4 @@ This repository serves as the official landing page for GuildFTPd. The software 
 **Get the most recent version of GuildFTPd today!**
 
 ---
-**Last updated:** 2026-09-24 07:15:00 UTC
+**Last updated:** 2026-09-24 13:15:22 UTC
